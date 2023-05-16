@@ -1,18 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
 
 body{
-    font-family: "Montserrat";
+    
     background-color: #f1fbff;
 }
 
 /* * ------ Estilos del navBar --------------------------- */
+.navbar a{
+    font-weight:700;
+}
 .nav-link:hover{
     text-decoration: underline;
     
 }
 .nav-link:focus{
     text-decoration: underline;}
-
 
 /* *----- Estilos del carrusel --------------------------- */
 
