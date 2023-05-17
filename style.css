@@ -1,9 +1,7 @@
 
 body{
-    
     background-color: #f1fbff;
 }
-
 /* * ------ Estilos del navBar --------------------------- */
 .navbar a{
     font-weight:700;
@@ -14,6 +12,10 @@ body{
 }
 .nav-link:focus{
     text-decoration: underline;}
+
+.isotipo{
+    width: 30px;
+}
 
 /* *----- Estilos del carrusel --------------------------- */
 
@@ -46,4 +48,12 @@ body{
     margin-bottom: 28px;
     
     box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.2);
+}
+
+#btn{
+    background-color:rebeccapurple;
+}
+#btn2{
+    background-color:rebeccapurple;
+
 }
